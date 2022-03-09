@@ -1,0 +1,9 @@
+###############################################################################
+# Oh My Zsh                                                                   #
+###############################################################################
+
+export ZSH=$HOME/.oh-my-zsh
+DISABLE_AUTO_UPDATE="true"
+HIST_STAMPS="dd.mm.yyyy"
+ZSH_CUSTOM=$HOME/projects/configs/.files/zsh
+source $ZSH/oh-my-zsh.sh
