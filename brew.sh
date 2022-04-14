@@ -70,6 +70,7 @@ brew install --cask teamviewer
 brew install --cask macs-fan-control
 brew install --cask bitwarden
 brew install --cask tunnelbear
+brew install --cask obsidian
 
 ###############################################################################
 # Develop                                                                     #
