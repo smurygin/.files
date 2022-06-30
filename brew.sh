@@ -71,6 +71,7 @@ brew install --cask macs-fan-control
 brew install --cask bitwarden
 brew install --cask tunnelbear
 brew install --cask obsidian
+brew install --cask transmission
 
 ###############################################################################
 # Develop                                                                     #
