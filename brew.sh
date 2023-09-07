@@ -57,18 +57,23 @@ brew install --cask microsoft-teams
 
 mas install 937984704 # Amphetamine
 mas install 526298438 # Lightshot
+mas install 1039633667 # irvue
+mas install 1470584107 # dato
 
 brew install --cask rectangle
 brew install --cask flux
 brew install --cask eul
-brew install --cask dozer
 brew install --cask keka
 brew install --cask appcleaner
 brew install --cask numi
-brew install --cask teamviewer
 brew install --cask bitwarden
 brew install --cask obsidian
 brew install --cask transmission
+brew install --cask qflipper
+brew install --cask raspberry-pi-imager
+brew install --cask openvpn-connect
+brew install --cask outline
+brew install --cask outline-manager
 
 ###############################################################################
 # Develop                                                                     #
@@ -79,6 +84,8 @@ brew install --cask jetbrains-toolbox
 brew install --cask google-chrome
 brew install --cask dbeaver-community
 brew install --cask imageoptim
+brew install --cask another-redis-desktop-manager
+brew install --cask postman
 
 ###############################################################################
 # Video                                                                       #
