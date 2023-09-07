@@ -48,7 +48,6 @@ mas install 497799835 # XCode
 
 brew install --cask slack
 brew install --cask telegram
-brew install --cask skype
 brew install --cask discord
 brew install --cask microsoft-teams
 
@@ -67,9 +66,7 @@ brew install --cask keka
 brew install --cask appcleaner
 brew install --cask numi
 brew install --cask teamviewer
-brew install --cask macs-fan-control
 brew install --cask bitwarden
-brew install --cask tunnelbear
 brew install --cask obsidian
 brew install --cask transmission
 
@@ -82,7 +79,6 @@ brew install --cask jetbrains-toolbox
 brew install --cask google-chrome
 brew install --cask dbeaver-community
 brew install --cask imageoptim
-brew install --cask jetbrains-space
 
 ###############################################################################
 # Video                                                                       #
