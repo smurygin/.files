@@ -59,6 +59,8 @@ mas install 937984704 # Amphetamine
 mas install 526298438 # Lightshot
 mas install 1039633667 # irvue
 mas install 1470584107 # dato
+mas install 6450280202 # day progress
+mas install 1632827132 # camera preview
 
 brew install --cask rectangle
 brew install --cask flux
