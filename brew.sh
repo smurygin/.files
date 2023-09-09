@@ -71,11 +71,20 @@ brew install --cask numi
 brew install --cask bitwarden
 brew install --cask obsidian
 brew install --cask transmission
+brew install --cask iina
 brew install --cask qflipper
 brew install --cask raspberry-pi-imager
 brew install --cask openvpn-connect
 brew install --cask outline
 brew install --cask outline-manager
+
+###############################################################################
+# Office                                                                      #
+###############################################################################
+brew install --cask microsoft-word
+brew install --cask microsoft-excel
+brew install --cask microsoft-powerpoint
+brew install --cask microsoft-outlook
 
 ###############################################################################
 # Develop                                                                     #
@@ -93,7 +102,7 @@ brew install --cask postman
 # Video                                                                       #
 ###############################################################################
 
-brew install --cask iina
+
 
 ###############################################################################
 # Cleanup                                                                       #
